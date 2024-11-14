@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AplicacionPractica.MainPage">
+
+    <VerticalStackLayout>
+        <Button Text="Ir al Formulario"
+Clicked="Button_Clicked"></Button>
+        <CollectionView
+            ItemsSource="{Binding Personas}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <FlexLayout>
+                        <Label Text="{Binding id}" TextColor="Black"/>
+                        <Label Text="{Binding nombre}" TextColor="Black"/>
+                        <Label Text="{Binding apellido}" TextColor="Black"/>
+                        <Label Text="{Binding sexo}" TextColor="Black"/>
+                        <Label Text="{Binding fh_nac}" TextColor="Black"/>
+                        <Label Text="{Binding id_rol}" TextColor="Black"/>
+                    </FlexLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+
+        </CollectionView>
+        
+    </VerticalStackLayout>
+        
+    
+</ContentPage>

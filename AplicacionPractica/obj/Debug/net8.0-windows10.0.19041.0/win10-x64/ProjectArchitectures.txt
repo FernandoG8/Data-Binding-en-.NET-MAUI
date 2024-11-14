@@ -1,0 +1,1 @@
+C:\Users\fwscg\source\repos\AplicacionPractica\AplicacionPractica.csproj;x64
