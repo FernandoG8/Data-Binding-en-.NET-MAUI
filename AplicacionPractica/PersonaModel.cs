@@ -13,6 +13,8 @@ namespace AplicacionPractica
         public string apellido { get; set; }
         public string sexo { get; set; }
         public string fh_nac { get; set; }
-        public int id_rol {  get; set; }
+        public string rol {  get; set; }
+        public int id_rol { get; set; }
+   
     }
 }

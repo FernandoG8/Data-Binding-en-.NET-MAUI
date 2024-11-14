@@ -1,1 +1,1 @@
-C:\Users\fwscg\source\repos\AplicacionPractica\AplicacionPractica.csproj;x64
+C:\Users\fwscg\source\repos\Tarea\Data-Binding-en-.NET-MAUI\AplicacionPractica\AplicacionPractica.csproj;x64

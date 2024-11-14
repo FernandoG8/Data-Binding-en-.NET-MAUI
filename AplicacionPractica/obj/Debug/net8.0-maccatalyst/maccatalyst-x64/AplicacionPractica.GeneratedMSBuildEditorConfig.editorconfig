@@ -12,43 +12,43 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AplicacionPractica
-build_property.ProjectDir = C:\Users\fwscg\source\repos\AplicacionPractica\
+build_property.ProjectDir = C:\Users\fwscg\source\repos\Tarea\Data-Binding-en-.NET-MAUI\AplicacionPractica\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/fwscg/source/repos/AplicacionPractica/App.xaml]
+[C:/Users/fwscg/source/repos/Tarea/Data-Binding-en-.NET-MAUI/AplicacionPractica/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AplicacionPractica.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/fwscg/source/repos/AplicacionPractica/AppShell.xaml]
+[C:/Users/fwscg/source/repos/Tarea/Data-Binding-en-.NET-MAUI/AplicacionPractica/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AplicacionPractica.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/fwscg/source/repos/AplicacionPractica/FormPage.xaml]
+[C:/Users/fwscg/source/repos/Tarea/Data-Binding-en-.NET-MAUI/AplicacionPractica/FormPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AplicacionPractica.FormPage.xaml
 build_metadata.AdditionalFiles.TargetPath = FormPage.xaml
 build_metadata.AdditionalFiles.RelativePath = FormPage.xaml
 
-[C:/Users/fwscg/source/repos/AplicacionPractica/MainPage.xaml]
+[C:/Users/fwscg/source/repos/Tarea/Data-Binding-en-.NET-MAUI/AplicacionPractica/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AplicacionPractica.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/fwscg/source/repos/AplicacionPractica/Resources/Styles/Colors.xaml]
+[C:/Users/fwscg/source/repos/Tarea/Data-Binding-en-.NET-MAUI/AplicacionPractica/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AplicacionPractica.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/fwscg/source/repos/AplicacionPractica/Resources/Styles/Styles.xaml]
+[C:/Users/fwscg/source/repos/Tarea/Data-Binding-en-.NET-MAUI/AplicacionPractica/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = AplicacionPractica.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

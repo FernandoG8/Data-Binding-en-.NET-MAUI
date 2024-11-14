@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gqt9DChWtmE=",
+  "dgSpecHash": "fN+OwpbgLb4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fwscg\\source\\repos\\AplicacionPractica\\AplicacionPractica.csproj",
+  "projectFilePath": "C:\\Users\\fwscg\\source\\repos\\Tarea\\Data-Binding-en-.NET-MAUI\\AplicacionPractica\\AplicacionPractica.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fwscg\\.nuget\\packages\\googlegson\\2.10.1.4\\googlegson.2.10.1.4.nupkg.sha512",
     "C:\\Users\\fwscg\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",

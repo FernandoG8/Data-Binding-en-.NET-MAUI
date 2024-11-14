@@ -2,38 +2,66 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AplicacionPractica.FormPage"
-             Title="FormPage">
-    <VerticalStackLayout>
-        <Label Text="Formulario para agregar una persona"
-               FontSize="25"
-               
-              
-               />
-        <Entry
-            Grid.Column="1"
-            Grid.Row="0"
-            Keyboard="Numeric"
-            Placeholder="Nombre"
-            VerticalOptions="Center"
-            x:Name="nombre"/>
-        <Entry
-            Grid.Column="1"
-            Grid.Row="0"
-            Keyboard="Numeric"
-            Placeholder="Apellido"
-            VerticalOptions="Center"/>
+             Title="Formulario"
+             BackgroundColor="#f4f4f4">
+
+    <ScrollView Padding="20">
+        <VerticalStackLayout Spacing="20">
+
+            <!-- Titulo de la pagina -->
+            <Label Text="Formulario para agregar una persona"
+                   FontSize="26"
+                   FontAttributes="Bold"
+                   TextColor="#333"
+                   HorizontalOptions="Center" />
+
+            <!-- Campo Nombre -->
+
+            <StackLayout>
+                <Label Text="Nombre" FontSize="18" TextColor="#555" />
+                <Entry x:Name="nombre" Placeholder="Ingrese el nombre" Keyboard="Text" />
+            </StackLayout>
+
+            <!-- Campo Apellido -->
+                <StackLayout>
+                    <Label Text="Apellido" FontSize="18" TextColor="#555" />
+                    <Entry x:Name="apellido" Placeholder="Ingrese el apellido" Keyboard="Text" />
+                </StackLayout>
+         
+            <!-- Seleccion de Sexo -->
+
+            <StackLayout>
+                <Label Text="Sexo" FontSize="18" TextColor="#555" />
+                <HorizontalStackLayout>
+                    <RadioButton x:Name="sexoMasculino"
+                                     Content="Masculino"
+                                     GroupName="Sexo" />
+                    <RadioButton x:Name="sexoFemenino"
+                                     Content="Femenino"
+                                     GroupName="Sexo"
+                                     />
+                </HorizontalStackLayout>
+            </StackLayout>
+
+            <!-- Campo Fecha de Nacimiento -->
+
+            <StackLayout>
+                <Label Text="Fecha de Nacimiento" FontSize="18" TextColor="#555" />
+                <DatePicker x:Name="fechaNacimiento" />
+            </StackLayout>
 
 
-        <HorizontalStackLayout>
-            <RadioButton Content="Masculino" GroupName="Sexo" Value="M" />
-            <RadioButton Content="Femenino" GroupName="Sexo" Value="F" />
-        </HorizontalStackLayout>
-            <DatePicker/>
-        <Picker  />
-        <Entry Placeholder="IdRol"/>
+            <!-- Campo ID Rol -->
 
-        <Button
-            Text="Guardar Persona"/>
+            <StackLayout>
+                <Label Text="ID Rol" FontSize="18" TextColor="#555" />
+                <Entry x:Name="idRol" Placeholder="Ingrese el ID de rol" Keyboard="Numeric" />
+            </StackLayout>
 
-    </VerticalStackLayout>
+            <!-- Boton para guardar persona -->
+            <Button Text="Guardar Persona" Clicked="OnGuardarPersonaClicked" 
+                    BackgroundColor="#007ACC" TextColor="White" CornerRadius="5" />
+
+        </VerticalStackLayout>
+    </ScrollView>
 </ContentPage>

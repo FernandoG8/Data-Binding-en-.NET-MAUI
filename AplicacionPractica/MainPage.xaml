@@ -2,7 +2,7 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AplicacionPractica.MainPage">
-
+    <ScrollView>
     <VerticalStackLayout>
         <Button Text="Ir al Formulario"
 Clicked="Button_Clicked"></Button>
@@ -10,20 +10,51 @@ Clicked="Button_Clicked"></Button>
             ItemsSource="{Binding Personas}">
             <CollectionView.ItemTemplate>
                 <DataTemplate>
-                    <FlexLayout>
-                        <Label Text="{Binding id}" TextColor="Black"/>
-                        <Label Text="{Binding nombre}" TextColor="Black"/>
-                        <Label Text="{Binding apellido}" TextColor="Black"/>
-                        <Label Text="{Binding sexo}" TextColor="Black"/>
-                        <Label Text="{Binding fh_nac}" TextColor="Black"/>
-                        <Label Text="{Binding id_rol}" TextColor="Black"/>
-                    </FlexLayout>
+                    <Grid ColumnSpacing="10" 
+                          RowSpacing="10" 
+                          Padding="10">
+                        <!-- Definicion de Filas -->
+                            <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                        </Grid.RowDefinitions>
+                            <!-- Definicion de Columnas -->
+                            <Grid.ColumnDefinitions >
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+                            <!--ID -->
+                        <Label Text="ID" TextColor="Black" FontSize="Title" Grid.Row="0" Grid.Column="0"/>
+                        <Label Text="{Binding id}" TextColor="Black" Grid.Row="0" Grid.Column="1"/>
+                            <!--Nombre-->
+                        <Label Text="Nombre" TextColor="Black" Grid.Row="1" Grid.Column="0"/>
+                        <Label Text="{Binding nombre}" TextColor="Black" Grid.Row="1" Grid.Column="1"/>
+                            <!--Apellido-->
+                        <Label Text="Apellido" TextColor="Black" Grid.Row="2" Grid.Column="0"/>
+                        <Label Text="{Binding apellido}" TextColor="Black" Grid.Row="2" Grid.Column="1"/>
+
+                            <!--Sexo-->
+                        <Label Text="Sexo" TextColor="Black" Grid.Row="3" Grid.Column="0"/>
+                        <Label Text="{Binding sexo}" TextColor="Black" Grid.Row="3" Grid.Column="1"/>
+                            <!--Fecha de nacimiento-->
+                        <Label Text="Fecha de Nacimiento" TextColor="Black" Grid.Row="4" Grid.Column="0"/>
+                        <Label Text="{Binding fh_nac}" TextColor="Black" Grid.Row="4" Grid.Column="1"/>
+                            <!--Rol-->
+                            <Label Text="ID Rol" TextColor="Black" Grid.Row="5" Grid.Column="0"/>
+                            <Label Text="{Binding rol}" TextColor="Black" Grid.Row="5" Grid.Column="1"/>
+                    </Grid>
+
                 </DataTemplate>
             </CollectionView.ItemTemplate>
 
         </CollectionView>
         
     </VerticalStackLayout>
-        
-    
+    </ScrollView>
+
+
 </ContentPage>
