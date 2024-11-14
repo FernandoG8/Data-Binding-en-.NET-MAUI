@@ -44,7 +44,7 @@ Clicked="Button_Clicked"></Button>
                         <Label Text="Fecha de Nacimiento" TextColor="Black" Grid.Row="4" Grid.Column="0"/>
                         <Label Text="{Binding fh_nac}" TextColor="Black" Grid.Row="4" Grid.Column="1"/>
                             <!--Rol-->
-                            <Label Text="ID Rol" TextColor="Black" Grid.Row="5" Grid.Column="0"/>
+                            <Label Text="Rol" TextColor="Black" Grid.Row="5" Grid.Column="0"/>
                             <Label Text="{Binding rol}" TextColor="Black" Grid.Row="5" Grid.Column="1"/>
                     </Grid>
 

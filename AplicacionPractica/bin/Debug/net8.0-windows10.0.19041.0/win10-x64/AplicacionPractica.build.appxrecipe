@@ -199,21 +199,6 @@
     <AppxPackagedFile Include="C:\Users\fwscg\source\repos\Tarea\Data-Binding-en-.NET-MAUI\AplicacionPractica\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\fwscg\source\repos\Tarea\Data-Binding-en-.NET-MAUI\AplicacionPractica\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
-      <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\fwscg\source\repos\Tarea\Data-Binding-en-.NET-MAUI\AplicacionPractica\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
-      <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\fwscg\source\repos\Tarea\Data-Binding-en-.NET-MAUI\AplicacionPractica\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
-      <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\fwscg\source\repos\Tarea\Data-Binding-en-.NET-MAUI\AplicacionPractica\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
-      <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\fwscg\source\repos\Tarea\Data-Binding-en-.NET-MAUI\AplicacionPractica\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
-      <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\fwscg\source\repos\Tarea\Data-Binding-en-.NET-MAUI\AplicacionPractica\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AplicacionPractica.deps.json">
       <PackagePath>AplicacionPractica.deps.json</PackagePath>
     </AppxPackagedFile>

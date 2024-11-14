@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\fwscg\\source\\repos\\Tarea\\Data-Binding-en-.NET-MAUI\\AplicacionPractica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26DA00EC-33F5-49F0-8DC2-1B52298DC6AA}|AplicacionPractica.csproj|c:\\users\\fwscg\\source\\repos\\tarea\\data-binding-en-.net-maui\\aplicacionpractica\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26DA00EC-33F5-49F0-8DC2-1B52298DC6AA}|AplicacionPractica.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26DA00EC-33F5-49F0-8DC2-1B52298DC6AA}|AplicacionPractica.csproj|c:\\users\\fwscg\\source\\repos\\tarea\\data-binding-en-.net-maui\\aplicacionpractica\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26DA00EC-33F5-49F0-8DC2-1B52298DC6AA}|AplicacionPractica.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26DA00EC-33F5-49F0-8DC2-1B52298DC6AA}|AplicacionPractica.csproj|c:\\users\\fwscg\\source\\repos\\tarea\\data-binding-en-.net-maui\\aplicacionpractica\\personamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26DA00EC-33F5-49F0-8DC2-1B52298DC6AA}|AplicacionPractica.csproj|solutionrelative:personamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26DA00EC-33F5-49F0-8DC2-1B52298DC6AA}|AplicacionPractica.csproj|c:\\users\\fwscg\\source\\repos\\tarea\\data-binding-en-.net-maui\\aplicacionpractica\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DA00EC-33F5-49F0-8DC2-1B52298DC6AA}|AplicacionPractica.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{26DA00EC-33F5-49F0-8DC2-1B52298DC6AA}|AplicacionPractica.csproj|c:\\users\\fwscg\\source\\repos\\tarea\\data-binding-en-.net-maui\\aplicacionpractica\\formpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26DA00EC-33F5-49F0-8DC2-1B52298DC6AA}|AplicacionPractica.csproj|solutionrelative:formpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26DA00EC-33F5-49F0-8DC2-1B52298DC6AA}|AplicacionPractica.csproj|c:\\users\\fwscg\\source\\repos\\tarea\\data-binding-en-.net-maui\\aplicacionpractica\\formpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{26DA00EC-33F5-49F0-8DC2-1B52298DC6AA}|AplicacionPractica.csproj|solutionrelative:formpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{26DA00EC-33F5-49F0-8DC2-1B52298DC6AA}|AplicacionPractica.csproj|c:\\users\\fwscg\\source\\repos\\tarea\\data-binding-en-.net-maui\\aplicacionpractica\\personamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26DA00EC-33F5-49F0-8DC2-1B52298DC6AA}|AplicacionPractica.csproj|solutionrelative:personamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26DA00EC-33F5-49F0-8DC2-1B52298DC6AA}|AplicacionPractica.csproj|c:\\users\\fwscg\\source\\repos\\tarea\\data-binding-en-.net-maui\\aplicacionpractica\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{26DA00EC-33F5-49F0-8DC2-1B52298DC6AA}|AplicacionPractica.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{26DA00EC-33F5-49F0-8DC2-1B52298DC6AA}|AplicacionPractica.csproj|c:\\users\\fwscg\\source\\repos\\tarea\\data-binding-en-.net-maui\\aplicacionpractica\\formpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26DA00EC-33F5-49F0-8DC2-1B52298DC6AA}|AplicacionPractica.csproj|solutionrelative:formpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "FormPage.xaml.cs",
               "ToolTip": "C:\\Users\\fwscg\\source\\repos\\Tarea\\Data-Binding-en-.NET-MAUI\\AplicacionPractica\\FormPage.xaml.cs",
               "RelativeToolTip": "FormPage.xaml.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBgAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowCsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-12T18:30:17.513Z",
               "IsPinned": true,
@@ -48,46 +48,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PersonaModel.cs",
               "DocumentMoniker": "C:\\Users\\fwscg\\source\\repos\\Tarea\\Data-Binding-en-.NET-MAUI\\AplicacionPractica\\PersonaModel.cs",
               "RelativeDocumentMoniker": "PersonaModel.cs",
               "ToolTip": "C:\\Users\\fwscg\\source\\repos\\Tarea\\Data-Binding-en-.NET-MAUI\\AplicacionPractica\\PersonaModel.cs",
               "RelativeToolTip": "PersonaModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T03:57:03.95Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\fwscg\\source\\repos\\Tarea\\Data-Binding-en-.NET-MAUI\\AplicacionPractica\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\fwscg\\source\\repos\\Tarea\\Data-Binding-en-.NET-MAUI\\AplicacionPractica\\MainPage.xaml.cs",
               "RelativeToolTip": "MainPage.xaml.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBQAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T03:50:50.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\fwscg\\source\\repos\\Tarea\\Data-Binding-en-.NET-MAUI\\AplicacionPractica\\MainPage.xaml",
               "RelativeDocumentMoniker": "MainPage.xaml",
               "ToolTip": "C:\\Users\\fwscg\\source\\repos\\Tarea\\Data-Binding-en-.NET-MAUI\\AplicacionPractica\\MainPage.xaml",
               "RelativeToolTip": "MainPage.xaml",
-              "ViewState": "AgIAABoAAAAAAAAAAAAcwC8AAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCEAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-14T03:50:44.913Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "FormPage.xaml",
               "DocumentMoniker": "C:\\Users\\fwscg\\source\\repos\\Tarea\\Data-Binding-en-.NET-MAUI\\AplicacionPractica\\FormPage.xaml",
               "RelativeDocumentMoniker": "FormPage.xaml",
@@ -95,8 +95,7 @@
               "RelativeToolTip": "FormPage.xaml",
               "ViewState": "AgIAAAgAAAAAAAAAAAAowDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-12T18:30:20.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T18:30:20.258Z"
             }
           ]
         }
